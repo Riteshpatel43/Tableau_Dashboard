@@ -9,7 +9,7 @@ This Tableau dashboard provides a comprehensive analysis of sales and revenue tr
 - Total Revenue: Displays the overall revenue generated.
 - Sales Quantity: Shows the total number of sales made.
 
-### Visualizations include bar charts for top customers and top products, highlighting the best-performing customers based on revenue and the best-selling products based on sales quantity and revenue. Additionally, the dashboard provides yearly analysis to visualize total sales and revenue for each year, with filtering options for detailed performance. It also offers quarterly and monthly analysis, enabling drill-down capabilities to explore trends in sales and revenue over different time periods.
+Visualizations include bar charts for top customers and top products, highlighting the best-performing customers based on revenue and the best-selling products based on sales quantity and revenue. Additionally, the dashboard provides yearly analysis to visualize total sales and revenue for each year, with filtering options for detailed performance. It also offers quarterly and monthly analysis, enabling drill-down capabilities to explore trends in sales and revenue over different time periods.
 
 ## Usage
 - Connects live to the database for up-to-date insights.
